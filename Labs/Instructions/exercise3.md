@@ -94,8 +94,6 @@ In this task, you will learn how to test the application locally by running both
 
    ![](../media/ex2img1.png)
 
-1. Now you can try modifiying the example prompt and change the topic and instruction to play with the application.
-
 ## Summary
 
 In this exercise, you have tested the application by running both the API and Web components. You verified that each component is functioning properly and that they can communicate with each other seamlessly, ensuring the application operates as expected. This process helped ensure that the entire system is ready for further deployment or development stages.
