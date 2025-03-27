@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9190ce4e-b688-4506-a3d6-b94be1230f7c)# Exercise 1: Deploying Resources with Azure Developer CLI
+# Exercise 1: Deploying Resources with Azure Developer CLI
 
 ### Estimated Duration: 1 Hour
 
