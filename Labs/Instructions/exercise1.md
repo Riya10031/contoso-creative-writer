@@ -1,4 +1,4 @@
-# Exercise 1: Deploying Resources with Azure Developer CLI
+![image](https://github.com/user-attachments/assets/9190ce4e-b688-4506-a3d6-b94be1230f7c)# Exercise 1: Deploying Resources with Azure Developer CLI
 
 ### Estimated Duration: 1 Hour
 
@@ -42,7 +42,8 @@ In this task, you will gain an understanding of the Azure Developer CLI (azd) an
 1. From the explorer menu, navigate to `/infra/main.bicep` file to review. A Bicep file is a simplified, readable syntax for defining and deploying Azure resources, which is compiled into ARM templates for deployment.
 
    ![](../media/ex1newimg3.png)
-1. In the `main.bicep`, navigate to navigate to line number 85, variable resourcetoken and update the value with **<inject key="region" enableCopy="false"/>**. Please note that if you missed to update this, the next step will fail to deploy the resources
+   
+1. In the `main.bicep`, navigate to navigate to line number 85, variable **resourcetoken** and update the value with **<inject key="DeploymentID" enableCopy="true"/>**. Please note that if you missed to update this, the next step will fail to deploy the resources
 
    ![image](https://github.com/user-attachments/assets/8a6305f2-4163-4cba-954d-dcbe94108382)
 
